@@ -1,7 +1,7 @@
 import sys
 import requests
 import pytest
-sys.path.append('C:\\Users\\wist\\Documents\\Python\\NevarisApi\\base')
+sys.path.append('C:\\Users\\wist\\Documents\\Python\\NevarisAPI\\Python_Nevaris_API\\base')
 import nevaris_api_base as nb
 
 class Projekt_Call:

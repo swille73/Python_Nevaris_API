@@ -1,7 +1,7 @@
 import sys
 import pytest
 import requests
-sys.path.append('C:\\Users\\wist\\Documents\\Python\\NevarisApi\\base')
+sys.path.append('C:\\Users\\wist\\Documents\\Python\\NevarisAPI\\Python_Nevaris_API\\base')
 import nevaris_api_base as nb
 
 class TestClass_Speichort:
