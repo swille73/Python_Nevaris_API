@@ -1,5 +1,5 @@
 import sys
-sys.path.append('C:\\Users\\wist\\Documents\\Python\\NevarisApi\\base')
+sys.path.append('C:\\Users\\wist\\Documents\\Python\\NevarisAPI\\Python_Nevaris_API\\base')
 
 from projekt_api_request import get_projektInfos, get_speicherorte
 
